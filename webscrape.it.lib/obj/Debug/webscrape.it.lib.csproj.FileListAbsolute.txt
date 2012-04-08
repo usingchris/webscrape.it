@@ -3,3 +3,8 @@ C:\Personal\webscrape.it\webscrape.it.lib\bin\Debug\webscrape.it.lib.pdb
 C:\Personal\webscrape.it\webscrape.it.lib\obj\Debug\ResolveAssemblyReference.cache
 C:\Personal\webscrape.it\webscrape.it.lib\obj\Debug\webscrape.it.lib.dll
 C:\Personal\webscrape.it\webscrape.it.lib\obj\Debug\webscrape.it.lib.pdb
+C:\Users\Chris\webscrape.it\webscrape.it.lib\bin\Debug\webscrape.it.lib.dll
+C:\Users\Chris\webscrape.it\webscrape.it.lib\bin\Debug\webscrape.it.lib.pdb
+C:\Users\Chris\webscrape.it\webscrape.it.lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\webscrape.it\webscrape.it.lib\obj\Debug\webscrape.it.lib.dll
+C:\Users\Chris\webscrape.it\webscrape.it.lib\obj\Debug\webscrape.it.lib.pdb

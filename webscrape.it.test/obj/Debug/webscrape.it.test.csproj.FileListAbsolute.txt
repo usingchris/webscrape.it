@@ -1,0 +1,5 @@
+C:\Users\Chris\webscrape.it\webscrape.it.test\bin\Debug\webscrape.it.test.dll
+C:\Users\Chris\webscrape.it\webscrape.it.test\bin\Debug\webscrape.it.test.pdb
+C:\Users\Chris\webscrape.it\webscrape.it.test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\webscrape.it\webscrape.it.test\obj\Debug\webscrape.it.test.dll
+C:\Users\Chris\webscrape.it\webscrape.it.test\obj\Debug\webscrape.it.test.pdb
