@@ -5,9 +5,10 @@ using System.Text;
 
 namespace webscrape.it.lib.Model
 {
-    public class TableData
+    public class TagData
     {
         public int Order { get; set; }
-        public string Content { get; set; }
+        public string ContentHTML { get; set; }
+        public string ContentText { get; set; }
     }
 }

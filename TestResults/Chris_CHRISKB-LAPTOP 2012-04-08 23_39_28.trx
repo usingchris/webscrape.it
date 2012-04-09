@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="52240940-43ed-4e81-870d-8386a2b12ae1" name="Chris@CHRISKB-LAPTOP 2012-04-08 23:39:28" runUser="CHRISKB-LAPTOP\Chris" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="a7650a38-5b7e-4892-b9ce-4a0fdae660ff">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Chris_CHRISKB-LAPTOP 2012-04-08 23_39_28">
+      <DeploymentItem filename="C:\Users\Chris\webscrape.it\webscrape.it.lib\bin\Debug\webscrape.it.lib.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-08T23:39:28.0598908+02:00" queuing="2012-04-08T23:39:30.4111705+02:00" start="2012-04-08T23:39:30.5261723+02:00" finish="2012-04-08T23:39:32.1384249+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetTagCollectionTestMethod" storage="c:\users\chris\webscrape.it\webscrape.it.test\bin\debug\webscrape.it.test.dll" id="a5ec1fc9-7754-7177-faa6-ac299dce1326">
+      <Execution id="ae1223bd-0f68-464b-bfd9-f5e8b7f0be08" />
+      <TestMethod codeBase="C:/Users/Chris/webscrape.it/webscrape.it.test/bin/Debug/webscrape.it.test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="webscrape.it.test.MethodTest, webscrape.it.test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetTagCollectionTestMethod" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a5ec1fc9-7754-7177-faa6-ac299dce1326" executionId="ae1223bd-0f68-464b-bfd9-f5e8b7f0be08" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ae1223bd-0f68-464b-bfd9-f5e8b7f0be08" testId="a5ec1fc9-7754-7177-faa6-ac299dce1326" testName="GetTagCollectionTestMethod" computerName="CHRISKB-LAPTOP" duration="00:00:00.0249915" startTime="2012-04-08T23:39:30.5874227+02:00" endTime="2012-04-08T23:39:32.0384248+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae1223bd-0f68-464b-bfd9-f5e8b7f0be08">
+    </UnitTestResult>
+  </Results>
+</TestRun>
